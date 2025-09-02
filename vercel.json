@@ -1,7 +1,7 @@
 
 {
   "build": {
-    "outputDirectory": "build",
+
     "command": "npm run build"
   }
 }
