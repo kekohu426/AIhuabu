@@ -1,0 +1,6 @@
+json
+{
+  "build": {
+    "outputDirectory": "build"
+  }
+}
