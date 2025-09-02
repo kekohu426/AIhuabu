@@ -1,6 +1,7 @@
+
 {
   "build": {
     "outputDirectory": "build",
-    "command": "npm run build"  // 新增：告诉 Vercel 执行 npm run build 来构建
+    "command": "npm run build"
   }
 }
